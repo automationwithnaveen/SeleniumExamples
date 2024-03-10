@@ -6,7 +6,9 @@ public class Run {
 	{
 		Example7 ex = new Example7();
 		ex.signUp();
-
+		ex.loginCheck();
+		ex.products();
+		ex.pricing();
 	}
 
 }
